@@ -5,7 +5,6 @@ from numpy import array
 from numpy.linalg import norm
 from math import pow
 
-#input the number of clusters
 k = 16
 
 bear = Image.open('pic.jpg')
